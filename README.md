@@ -4,7 +4,7 @@ Code and result about LRFNet (BMVC 2023)
 
 Label-guided Real-time Fusion Network for RGB-T Semantic Segmentation
 
-![model](picture/model.png)
+![model](https://github.com/KevinBHLin/LRFNet/picture/model.png)
 ## Requirements
 
 Python 3.9.13 Pytorch 1.12.0, Cuda 11.3, TensorboardX 2.0, opencv-python
