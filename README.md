@@ -27,7 +27,7 @@ The implement of this project is based on the code of ‘RTFNet: RGB-Thermal Fus
 Further discussion: linzr9@mail2.sysu.edu.cn or linbaihong111@126.com.
 
 
-##Citation
+## Citation
 
 @INPROCEEDINGS{LPFNet_BMVC_2024,  
 	author={Lin, Z. and Lin, B. and Guo, Y.},  
@@ -36,6 +36,6 @@ Further discussion: linzr9@mail2.sysu.edu.cn or linbaihong111@126.com.
 	year={2023}
 }
 
-#   L R F N e t 
+
  
  
